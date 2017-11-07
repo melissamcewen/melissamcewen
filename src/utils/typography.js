@@ -21,7 +21,7 @@ const typography = new Typography({
   },
 ],
   headerFontFamily: ['VT323', "comic sans ms", 'Avenir Next', 'Helvetica Neue', 'Segoe UI', 'Helvetica', 'Arial', 'sans-serif'],
-  bodyFontFamily: ['Georgia', 'serif'],
+  bodyFontFamily: ['Lucida Console', 'Monaco', 'monospace'],
   // See below for the full list of options.
 })
 
