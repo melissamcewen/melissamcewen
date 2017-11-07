@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 
 
 const Social = props => (
-  <div style={{ backgroundColor: "orange" }}>
+  <div>
     <a href={props.url}>{props.title}</a>
   </div>
 )

@@ -1,33 +1,45 @@
 import React from "react"
-import styles from "./index.module.css"
+import styles from "./index.module.scss"
 
 import Header from "../components/header"
 import SocialLinks from "../components/social-links"
 import Social from "../components/social"
 import Container from "../components/container"
 import Section from "../components/section"
+import Button from "../components/button"
+
+
+import flowers from './images/flowers.png'; 
+import robots from './images/robots.png'; 
+import counter from './images/count.gif'; 
+
+
 
 
 export default () =>
   <div style={{ margin: '3rem auto', maxWidth: 600 }}>
-    <Header>
-      <h1>Melissa McEwen</h1>
-      <p>is a writer and software developer based on in Chicago.  </p>
-      <a href="mailto:mgmcewen@gmail.com">Email me!</a>
+    <img src={flowers} alt="flowers" className={styles.flowers} />
+    <div className={styles.pixelBorder}>
+      <Header>
+        <h1>Melissa McEwen</h1>
+        <p>is a writer and software developer based on in Chicago.  </p>
+        <Button url="mailto:mgmcewen@gmail.com" color="#997166">Email me!</Button>
 
-      <p>This website is inspired by my original Expages sites from 2000 and <a href="http://brutalistwebsites.com/">the "Brutalism" design trend</a></p>
+        <p>This website is inspired by one of my earliest sites in 2002 and most of the pixel art I recovered from my old sites on Web Archive. It also follows the general <a href="http://brutalistwebsites.com/"> "Brutalism" design trend</a>. It is built with GatsbyJS.</p>
 
-      <SocialLinks>
-        <Social url="https://twitter.com/melissamcewen" title="Twitter"/>
-        <Social url="https://github.com/melissamcewen" title="GitHub"/>
-        <Social url="https://www.instagram.com/melissamcewen/" title="Instagram" />
-        <Social url="https://medium.com/@melissamcewen" title="Medium" />
-
-      </SocialLinks>
+        <SocialLinks>
+          <Button url="https://twitter.com/melissamcewen" color="#9b6c64">Twitter</Button>
+          <Button url="https://github.com/melissamcewen" color="#b69889">Github</Button>
+           <Button url="https://www.instagram.com/melissamcewen/" color="#969768">Instagram</Button>
+          <Button url="https://medium.com/@melissamcewen" color="#ac88a9">Medium</Button>
+        </SocialLinks>
     </Header>
 
     <Container>
+
       <Section>
+        <img src={robots} alt="robots" className={styles.robots} />
+
         <p>I've been creating fun and useful Chatbots for over a year, as a contributor, designer, and coder</p>
         <ul>
           <li>Internal Slackbot: this internal slackbot was for a company I worked for and you could ask it for directory information or about meeting rooms</li>
@@ -86,7 +98,11 @@ export default () =>
         </Section>
 
 
-    </Container>
+      </Container>
+    <img src={counter} alt="counter"  />
+
+    </div>
+
 
 
 
