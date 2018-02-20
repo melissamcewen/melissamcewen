@@ -1,110 +1,41 @@
 import React from "react"
-import styles from "./index.module.scss"
-
-import Header from "../components/header"
-import SocialLinks from "../components/social-links"
-import Social from "../components/social"
-import Container from "../components/container"
-import Section from "../components/section"
-import Button from "../components/button"
-
-
-import flowers from './images/flowers.png'; 
-import robots from './images/robots.png'; 
-import counter from './images/count.gif'; 
-
+import Helmet from 'react-helmet'
+import { Jumbotron, Button,ListGroup, ListGroupItem } from 'reactstrap';
 
 
 
 export default () =>
-  <div style={{ margin: '3rem auto', maxWidth: 600 }}>
-    <img src={flowers} alt="flowers" className={styles.flowers} />
-    <div className={styles.pixelBorder}>
-      <Header>
-        <h1>Melissa McEwen</h1>
-        <p>is a writer and software developer based on in Chicago.  </p>
-        <Button url="mailto:mgmcewen@gmail.com" color="#997166">Email me!</Button>
+<div >
+    <Helmet
+      title="Melissa McEwen"
+      meta={[
+        { name: 'description', content: 'Writer for and about software' },
+        { name: 'keywords', content: 'software, marketing, architecture' },
+      ]}
+    />
+  <Jumbotron>
+    <h1 className="display-3">Melissa McEwen</h1>
+    <p className="lead">Writer</p>
+    <hr className="my-2" />
+    <p>My specialty is writing for and about software. My work includes software architecture plans,  documentation, and marketing. I have over a decade of experience as a developer and project manager, as well as years of experience as a professional editor and writer.</p>
+    <p className="lead">
+          <Button color="primary" href="mailto:mgmcewen@gmail.com">Contact me</Button>
+    </p>
 
-        <p>This website is inspired by one of my earliest sites in 2002 and most of the pixel art I recovered from my old sites on Web Archive. It also follows the general <a href="http://brutalistwebsites.com/"> "Brutalism" design trend</a>. It is built with GatsbyJS.</p>
-
-        <SocialLinks>
-          <Button url="https://twitter.com/melissamcewen" color="#9b6c64">Twitter</Button>
-          <Button url="https://github.com/melissamcewen" color="#b69889">Github</Button>
-           <Button url="https://www.instagram.com/melissamcewen/" color="#969768">Instagram</Button>
-          <Button url="https://medium.com/@melissamcewen" color="#ac88a9">Medium</Button>
-        </SocialLinks>
-    </Header>
-
-    <Container>
-
-      <Section>
-        <img src={robots} alt="robots" className={styles.robots} />
-
-        <p>I've been creating fun and useful Chatbots for over a year, as a contributor, designer, and coder</p>
-        <ul>
-          <li>Internal Slackbot: this internal slackbot was for a company I worked for and you could ask it for directory information or about meeting rooms</li>
-          <li>Rose @ The Cosmopolitan: <a href="http://www.travelandleisure.com/hotels-resorts/cosmopolitan-las-vegas">a "sassy" hotel concierge SMS bot </a></li>
-          <li><a href="http://curlsbot.com/">Curlsbot</a> (in testing): a cute FB messenger that analyzes ingredients in hair care products</li>
-          <li>Salon Slackbot: a slackbot to help salons find the best products for their clients and manage their inventory (unreleased)</li>
-
-
-        </ul>
-
-      </Section>
-
-      <Section>
-        <p>I've been blogging since 1999, my first blogs were on Expages and Livejournal. In college I majored in Agriculture and I've written about food, food-policy, farming, and restaurants since. I was also <a href="http://chicagoist.com/author/melissa%20mcewen">Chicagoist.com's Food and Drink editor</a> for over a year, and have also written for NPR and  Fooditor. I have also done some software writing, mainly on Medium.com.  </p>
-        <p>A selection of clips</p>
-          <ul>
-            <li><a href="http://fooditor.com/everybody-korean-mom-kimchi-pop/">Everybody Has a Korean Mom at Kimchi Pop</a></li>
-            <li>
-              <a href="http://chicagoist.com/2014/05/23/looking_for_leghorn_why_arent_herit.php">Looking For Leghorn: Why Aren't Heritage Chickens On The Table?</a>
-            </li>
-            <li>
-              <a href="http://www.npr.org/sections/thesalt/2013/04/15/177362556/how-swedish-malort-became-chicagos-mascot-bitter-drink">How Swedish Malort Became Chicago's Mascot Bitter Drink</a>
-            </li>
-          </ul>
-        </Section> 
-        <Section>
-          <p>I've been making websites since 2000 or so with a wide variety of projects in education, advertising, and government. Here's a small selection of projects I've worked on:</p>
-          <ul>
-            <li><a href="http://arch.uic.edu/">Architecture at UIC</a></li>
-            <li><a href="https://www.lifewtr.com/">LIFEWTR</a></li>
-            <li><a href="https://www.ama-assn.org/">The American Medical Association</a></li>
-
-          </ul>
-          <p>I specialize in great software and workflow design, and can work across the stack.</p>
-          <p>Some of my skills include:</p>
-          <ul>
-            <li>Node.js</li>
-            <li>Meteor</li>
-            <li>Continuous integration</li>
-            <li>Test-driven development</li>
-            <li>Front-end frameworks: React, Blaze, Angular</li>
-            <li>Static sites: Gatsby, Jekyll</li>
-            <li>CMSs: Drupal, Wordpress</li>
-          </ul>
-
-        </Section>
-
-        <Section>
-         <p> I've been managing projects as a manager or tech lead since 2010. I have extensive experience with project management tools like Basecamp, Jira, Slack, Trello, and TeamworkPM. </p>
-
-        </Section>
-
-        <Section>
-          <p>I'm also a moderator of many online communities, mainly FB groups these days (I'm a "facebook power moderator) of 1000+ members. I can consult with you on managing these groups and how useful they can be for businesses and causes. </p>
-
-        </Section>
-
-
-      </Container>
-    <img src={counter} alt="counter"  />
-
-    </div>
-
-
-
-
-
+  </Jumbotron>
+  <div className="container">
+      <ListGroup>
+        <ListGroupItem><a href="https://medium.com/@melissamcewen">Medium</a></ListGroupItem>
+        <ListGroupItem><a href="https://twitter.com/melissamcewen">Twitter</a></ListGroupItem>
+        <ListGroupItem><a href="https://github.com/melissamcewen">Github</a></ListGroupItem>
+      </ListGroup>
   </div>
+
+
+
+</div>
+
+
+
+
+
