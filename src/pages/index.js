@@ -22,7 +22,7 @@ export default () =>
     <div className={styles.pixelBorder}>
       <Header>
         <h1>Melissa McEwen</h1>
-        <p>I am a writer based in Chicago, IL. I cover a wide variety of topics from farming to fashion. My writings takes the form of blog posts, software, and more traditional articles.  </p>
+        <p>I am a writer based in Chicago, IL. I cover a wide variety of topics from farming to fashion. My writing takes the form of blog posts, software, and more traditional articles.  </p>
         <Button url="mailto:mgmcewen@gmail.com" color="#997166">Email me!</Button>
 
         <p>Follow me</p>
@@ -44,7 +44,7 @@ export default () =>
             <li>
               <a href="https://work.qz.com/1140305/outsourcing-coders-should-fear-what-happened-to-the-journalism-industry/">Coders should be afraid of what happened to the journalism industry- Quartz</a>
             </li>
-            <li><a href="http://fooditor.com/everybody-korean-mom-kimchi-pop/">Everybody Has a Korean Mom at Kimchi Pop- Footitor</a></li>
+            <li><a href="http://fooditor.com/everybody-korean-mom-kimchi-pop/">Everybody Has a Korean Mom at Kimchi Pop- Fooditor</a></li>
             <li>
               <a href="http://chicagoist.com/2014/05/23/looking_for_leghorn_why_arent_herit.php">Looking For Leghorn: Why Aren't Heritage Chickens On The Table? - Chicagoist</a>
             </li>
