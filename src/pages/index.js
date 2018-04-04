@@ -1,78 +1,15 @@
-import React from "react"
-import styles from "./index.module.scss"
+import React from 'react'
+import Link from 'gatsby-link'
 
-import Header from "../components/header"
-import SocialLinks from "../components/social-links"
-import Social from "../components/social"
-import Container from "../components/container"
-import Section from "../components/section"
-import Button from "../components/button"
+const About = () => (
+  <div>
+    <p>A lot of people are interested in properly caring for their naturally curly or wavy hair, but it can be confusing to find the right methods and products. CurlsBot aims to make it all easier by analyzing ingredient lists to see if they comply with the "curly girl" rules pioneered by Lorraine Massey.</p>
 
 
-import flowers from './images/flowers.png'; 
-import robots from './images/robots.png'; 
-import counter from './images/count.gif'; 
-
-
-
-
-export default () =>
-  <div style={{ margin: '3rem auto', maxWidth: 600 }}>
-    <img src={flowers} alt="flowers" className={styles.flowers} />
-    <div className={styles.pixelBorder}>
-      <Header>
-        <h1>Melissa McEwen</h1>
-        <p>I am a writer based in Chicago, IL. I cover a wide variety of topics from farming to fashion. My writing takes the form of blog posts, software, and more traditional articles.  </p>
-        <Button url="mailto:mgmcewen@gmail.com" color="#997166">Email me!</Button>
-
-        <p>Follow me</p>
-
-        <SocialLinks>
-          <Button url="https://twitter.com/melissamcewen" color="#9b6c64">Twitter</Button>
-          <Button url="https://github.com/melissamcewen" color="#b69889">Github</Button>
-           <Button url="https://www.instagram.com/melissamcewen/" color="#969768">Instagram</Button>
-          <Button url="https://medium.com/@melissamcewen" color="#ac88a9">Medium</Button>
-        </SocialLinks>
-    </Header>
-
-    <Container>
-
-
-      <Section>
-        <p>A selection of clips</p>
-          <ul>
-            <li>
-              <a href="https://work.qz.com/1140305/outsourcing-coders-should-fear-what-happened-to-the-journalism-industry/">Coders should be afraid of what happened to the journalism industry- Quartz</a>
-            </li>
-            <li><a href="http://fooditor.com/everybody-korean-mom-kimchi-pop/">Everybody Has a Korean Mom at Kimchi Pop- Fooditor</a></li>
-            <li>
-              <a href="http://chicagoist.com/2014/05/23/looking_for_leghorn_why_arent_herit.php">Looking For Leghorn: Why Aren't Heritage Chickens On The Table? - Chicagoist</a>
-            </li>
-            <li>
-              <a href="http://www.npr.org/sections/thesalt/2013/04/15/177362556/how-swedish-malort-became-chicagos-mascot-bitter-drink">How Swedish Malort Became Chicago's Mascot Bitter Drink - NPR</a>
-            </li>
-          </ul>
-        </Section> 
-        <Section>
-          <p>I've been making software since 2000, ranging from large government websites to smaller apps. These are my current projects:</p>
-          <ul>
-            <li><a href="http://www.curlsbot.com">Curlsbot</a></li>
-            <li><a href="https://www.mypetjumpingspider.com">My Pet Jumping Spider</a></li>
-            <li>Coming Soon- Content For Developers</li>
-
-          </ul>
-
-
-        </Section>
-
-
-      </Container>
-    <img src={counter} alt="counter"  />
-
-    </div>
-
-
-
-
-
+    <p>This was inspired by my own work on bots at my job as a developer as well as the <a href="http://isitcg.herokuapp.com/">isitcg app</a>. It differs a little in its functionality – it can't tell you about things like protein or humetants yet, but it has a more advanced function for identifying non-"curly girl" ingredients. <a href="https://github.com/melissamcewen/CurlsBotSite">Check out the code here!</a></p>
+  
   </div>
+)
+
+export default About
+
