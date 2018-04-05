@@ -1,13 +1,25 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Helmet from 'react-helmet'
+import Button from "../components/button"
+
 
 const About = () => (
   <div>
-    <p>A lot of people are interested in properly caring for their naturally curly or wavy hair, but it can be confusing to find the right methods and products. CurlsBot aims to make it all easier by analyzing ingredient lists to see if they comply with the "curly girl" rules pioneered by Lorraine Massey.</p>
+      <Helmet
+      title="Melissa McEwen"
+      meta={[
+        { name: 'description', content: 'Writer and tech operations' },
+        { name: 'keywords', content: 'chicago, technology, writer, operations, design operations' },
+      ]}
+    />
+    <h1>Melissa McEwen</h1>
+    <p>Hi! I am a Chicago-based writer and tech consultant. </p>
+    <p>My main interest in tech these days is Design Operations, which is an ideal fusion of my skills in web development, documentation, and project management. I love filling the gap between design dreams and the technical implementation. I work a lot with Styleguide Driven Development and Visual Regression Testing. I'm also really into static site generators like GatsbyJS. My "side projects" are writing documentation for open source software (like GatsbyJS), as  well as grading student projects in TDD (Test Driven Development), CSS/HTML, APIs, and React. </p> 
+    <p>I like to write about everything that I'm interested in and I'm interested in a lot of things. Food, science, and tech are my main wheelhouses right now. I do everything from longform pieces for publications to content marketing for dev tools.</p>
+    <p>This site is an update of a site design I first built in 2002 for fun when I was in high school. I found a copy on Web Arcthiveand updated it for the modern web (the original was built with tables and image maps hehe). It's also kind of my playground for various technologies. </p>
+    <Button url="mailto:mgmcewen@gmail.com" color="#997166">Email me!</Button>
 
-
-    <p>This was inspired by my own work on bots at my job as a developer as well as the <a href="http://isitcg.herokuapp.com/">isitcg app</a>. It differs a little in its functionality – it can't tell you about things like protein or humetants yet, but it has a more advanced function for identifying non-"curly girl" ingredients. <a href="https://github.com/melissamcewen/CurlsBotSite">Check out the code here!</a></p>
-  
   </div>
 )
 

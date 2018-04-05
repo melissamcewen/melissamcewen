@@ -1,8 +1,10 @@
-import React from "react"
-import styles from "./index.module.scss"
+import React from 'react'
+import Helmet from 'react-helmet'
+
+import styles from './index.module.scss'
 import PropTypes from 'prop-types'
 
-import Menu from "../components/menu"
+import Menu from '../components/menu'
 
 
 import allFlowers from './images/flowers.png'; 
@@ -21,6 +23,13 @@ export default class TemplateWrapper extends React.Component {
   render() {
     return (
      <div>
+           <Helmet
+      title="Melissa McEwen"
+      meta={[
+        { name: 'description', content: 'Writer and tech operations' },
+        { name: 'keywords', content: 'chicago, technology, writer, operations, design operations' },
+      ]}
+    />
        <img src={allFlowers} alt="flowers" className={styles.flowertop} />
 
        <div className={styles.layout}>

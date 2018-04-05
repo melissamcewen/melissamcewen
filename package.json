@@ -8,13 +8,19 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "bootstrap": "^4.0.0",
     "gatsby": "^1.9.73",
     "gatsby-link": "^1.6.22",
     "gatsby-plugin-sass": "^1.0.12",
     "gatsby-plugin-typography": "^1.7.10",
-    "reactstrap": "^5.0.0-alpha.4",
-    "bootstrap": "^4.0.0",
-    "gatsby-plugin-react-helmet": "^1.0.5"
+    "gatsby-source-filesystem": "^1.5.28",
+    "gatsby-transformer-remark": "^1.7.39",
+    "reactstrap": "^5.0.0-alpha.4"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "gatsby-image": "^1.0.43",
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-sharp": "^1.6.41",
+    "gatsby-transformer-sharp": "^1.6.22"
+  }
 }
