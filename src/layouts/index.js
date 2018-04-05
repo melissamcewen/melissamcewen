@@ -2,6 +2,9 @@ import React from "react"
 import styles from "./index.module.scss"
 import PropTypes from 'prop-types'
 
+import Menu from "../components/menu"
+
+
 import allFlowers from './images/flowers.png'; 
 
 import flowers from './images/flowers-1.png'; 
@@ -26,7 +29,7 @@ export default class TemplateWrapper extends React.Component {
           <div className={styles.menu}>
               <img src={flowersSmall} alt="flowers" className={styles.flowers} />
               <div className={styles.pixelBorder}>
-                        Menu
+                        <Menu />
               </div>
           </div>
           <div className={styles.content}>
