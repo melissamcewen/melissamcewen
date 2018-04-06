@@ -18,7 +18,17 @@ const About = ({ data }) => (
 
       <Portfolio image={data.lifewtr.childImageSharp.sizes}  title="Lifewtr (2017)" link="/portfolio/lifewtr" desc="Design Ops, Project Management, Scrum, Wordpress, Gulp, PhantomJS" />
       <Portfolio image={data.corona.childImageSharp.sizes}  title="Corona (2016)" link="/portfolio/corona" desc="Design Ops, Scrum, Meteor, PhantomJS, Blaze" />
+
+      <TextPortfolio title="The American Medical Association" color="#969768">Most of the work I did here was in operations: writing stories in Jira, implementing Test Driven Development and continuous integration. I think this is where my background on both the front and back end was really put to work!</TextPortfolio>
+
+      <TextPortfolio title="Cook County" color="#b69889">This was a challenging Drupal 7 project where I did a lot of the front end architecture.</TextPortfolio>
+
       <Portfolio image={data.uic.childImageSharp.sizes}  title="UIC College of Architecture, Design and the Arts (2015)" link="/portfolio/uic" desc="Drupal, Project Management, DevOps" />
+
+
+      <TextPortfolio title="Equivoice (2011-2014)" color="#ac88a9">I was a project manager for this Telecom company. It was great to get a view of this part of the stack. I became VMWare Data Center Virtualization Certified and also was the Project Manager for getting the company its Cisco Master Cloud Builder Specialization. I decided to go back into software because I felt that I had a better grasp of it on a technical level and it was easy for me to learn. I wanted to improve my technical strengths so if I did want to become a software PM I would have a strong grasp of what producing applications is like.  </TextPortfolio>
+
+      <TextPortfolio title="Columbia University (2010-2011)" color="#969768">I did A LOT of department websites here in Drupal 6. Some of them were still up as late as 2016. They weren't the most flashy or exciting sites, but they taught me a lot about building effective websites. </TextPortfolio>
 
 
   </div>
