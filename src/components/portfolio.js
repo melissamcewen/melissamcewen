@@ -1,23 +1,33 @@
 import React from "react"
 import Img from 'gatsby-image'
-import styles from "./captioned.module.scss"
+import styles from "./portfolio.module.scss"
 import Link from 'gatsby-link'
 
 
 
-const Portfolio = props => (
-    <div className={styles.captioned}>
-      <Link to={props.link} >
-         <Img sizes={props.image}  style={{ width: "100%" }} alt={props.desc} />
-         <div className={styles.caption}>
+class Portfolio extends React.Component {
+
+  render() {
+    return <div className={styles.captioned}>
+      <Link to={this.props.link} >
+         <Img sizes={this.props.image}  style={{ width: "100%" }} alt={this.props.desc} />
+         <h2 className={styles.title}>
     
-              {props.desc}
+              {this.props.title}
           
-         </div>   
+         </h2> 
+
+          <div className={styles.itemCaption}>
+    
+            {this.props.desc}
+          
+         </div> 
+
        </Link>
     </div>
+    }
+}
 
-)
 
 
 

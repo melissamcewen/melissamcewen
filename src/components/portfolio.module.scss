@@ -1,9 +1,15 @@
 
-.captioned {
+.item {
   margin: 10px 10px; 
 }
 
-.caption {
+.title {
+  text-align: center;
+  margin-bottom: 10px;
+
+}
+
+.itemCaption {
   text-align: center;
   font-size: .75em;
   margin: 5px 0;

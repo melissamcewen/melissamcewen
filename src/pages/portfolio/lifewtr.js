@@ -27,15 +27,7 @@ const lifewtr = ({ data }) => (
 )
 
 
-export const imageFragment = graphql`
-fragment imageFragment on File {
-      childImageSharp {
-        sizes(maxWidth: 1000) {
-          ...GatsbyImageSharpSizes
-        }
-      }
-}
-`;
+
 
 
 export const query = graphql`

@@ -2,6 +2,10 @@ body {
   background-color: #555555;
 }
 
+a {
+  color: #5c7ca3;
+}
+
 $menu-width: 33.3%;
 $layout-width: 100% - 36%;
 
@@ -16,6 +20,7 @@ $break-large: 1200px;
     display:none;
   }
 }
+
 
 .layout {
 

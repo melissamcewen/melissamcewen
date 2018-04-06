@@ -19,7 +19,7 @@ const About = () => (
     <p>Hi! I am a Chicago-based writer and tech consultant. </p>
     <p>My main interest in tech these days is Design Operations, which is an ideal fusion of my skills in web development, documentation, and project management. I love filling the gap between design dreams and the technical implementation. I work a lot with Styleguide Driven Development and Visual Regression Testing. I'm also really into static site generators like GatsbyJS. My "side projects" are writing documentation for open source software (like GatsbyJS), as  well as grading student projects in TDD (Test Driven Development), CSS/HTML, APIs, and React. </p> 
     <p>I like to write about everything that I'm interested in and I'm interested in a lot of things. Food, science, and tech are my main wheelhouses right now. I do everything from longform pieces for publications to content marketing for dev tools.</p>
-    <p>This site is an update of a site design I first built in 2002 for fun when I was in high school. I found a copy on Web Arcthive and updated it for the modern web (the original was built with tables and image maps hehe). It's also kind of my playground for various technologies. </p>
+    <p>This site is an update of a site design I first built in 2002 for fun when I was in high school. I found a copy on Web Archive and updated it for the modern web (the original was built with tables and image maps hehe). It's also kind of my playground for various technologies. Right now this is built with GatsbyJS powered by React, GraphQL, and CSS Modules. </p>
     <SocialLinks>
       <Button url="https://twitter.com/melissamcewen" color="#9b6c64">Twitter</Button>
       <Button url="https://github.com/melissamcewen" color="#b69889">Github</Button>
