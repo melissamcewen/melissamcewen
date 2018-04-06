@@ -8,6 +8,16 @@ fragment imageFragment on File {
 }
 `;
 
+export const imageFragmentSmall = graphql`
+fragment imageFragmentSmall on File {
+      childImageSharp {
+        resolutions(width: 250) {
+          ...GatsbyImageSharpResolutions
+        }
+      }
+}
+`;
+
 
 export const portfolioFragment = graphql`
 fragment portfolioFragment on File {
