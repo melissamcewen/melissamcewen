@@ -12,7 +12,7 @@ const lifewtr = ({ data }) => (
       <Captioned image={data.desktop.childImageSharp.sizes}  desc="Product module for an artist bottle" />
       <Captioned image={data.mobile.childImageSharp.sizes}  desc="The mobile version" />
 
-    <p>We chose to implement Style Guide Driven Development because I knew the reoccuring product launches would have a tighter budget than the original release. So it was useful to create a standardized set of components that could be "remixed" for future product launches. We used KSS in our front end code to turn them into an automatically updated "living" Style Guide.</p>
+    <p>We chose to implement Style Guide Driven Development because I knew the launches of new bottles would have a tighter budget than the original Super Bowl release. So it was useful to create a standardized set of components that could be "remixed" for future product launches. We used KSS in our front end code to turn them into an automatically updated "living" Style Guide.</p>
      <Captioned image={data.workflow.childImageSharp.sizes}  desc="Gulp generating the style guide with KSS" />
     <p>I worked with UX to work out the technical details of animations included on the site's user interface. We started using Principle for this, which was really useful in bridging the gap between design and dev. In the past most designers had resorted to just describing the animations in the spec and devs having to guess how they really looked, which often lead to many revisions. This way we were able to prototype together to figure out exactly what we needed before we tried to implement it.</p>
           <Captioned image={data.styleguide.childImageSharp.sizes}  desc="Our KSS-generated living styleguide" />

@@ -1,0 +1,370 @@
+[
+  {
+    "Name": "Baconfest",
+    "Url": "Restaurant Tweets 2018",
+    "Date": "3/1/2018",
+    "Tags": "food",
+    "Type": "social media, copywriting",
+    "Publication": "Baconfest"
+  },
+  {
+    "Name": "The Recompiler: Social Media/Emails Winter 2017",
+    "Url": "https://twitter.com/recompilermag",
+    "Date": "12/12/2017",
+    "Tags": "tech",
+    "Type": "social media, email, copywriting",
+    "Publication": "The Recompiler"
+  },
+  {
+    "Name": "Coders should be afraid of what happened to the journalism industry",
+    "Url": "https://work.qz.com/1140305/outsourcing-coders-should-fear-what-happened-to-the-journalism-industry/",
+    "Date": "11/8/2017",
+    "Tags": "tech",
+    "Type": "writing",
+    "Publication": "Quartz"
+  },
+  {
+    "Name": "Everyone Has A Korean Mom At Kimchi Pop",
+    "Url": "http://fooditor.com/everybody-korean-mom-kimchi-pop/",
+    "Date": "8/30/2017",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Fooditor"
+  },
+  {
+    "Name": "The Strange and Beautiful Vegetable Dishes of Thurk",
+    "Url": "http://fooditor.com/strange-beautiful-vegetable-dishes-thurk/",
+    "Date": "8/22/2016",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Fooditor"
+  },
+  {
+    "Name": "How Swedish Malort Became Chicago's Mascot Bitter Drink",
+    "Url": "https://www.npr.org/sections/thesalt/2013/04/15/177362556/how-swedish-malort-became-chicagos-mascot-bitter-drink",
+    "Date": "5/10/2013",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "NPR"
+  },
+  {
+    "Name": "Is 'Cook At Home' Always Good Health Advice?",
+    "Url": "https://www.npr.org/sections/thesalt/2013/04/15/177362556/how-swedish-malort-became-chicagos-mascot-bitter-drink",
+    "Date": "1/9/2015",
+    "Tags": "science, food",
+    "Type": "writing",
+    "Publication": "NPR"
+  },
+  {
+    "Name": "Looking For Leghorn",
+    "Url": "http://chicagoist.com/2014/05/23/looking_for_leghorn_why_arent_herit.php",
+    "Date": "5/23/2014",
+    "Tags": "food writing, longform",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "How Self-Tracking Helped Me Conquer My Bad Shopping Habits",
+    "Url": "https://www.thebillfold.com/2018/03/how-self-tracking-helped-me-conquer-my-bad-shopping-habits/",
+    "Date": "3/29/2018",
+    "Tags": "data, fashion, money",
+    "Type": "writing, data",
+    "Publication": "The Billfold"
+  },
+  {
+    "Name": "9 Things Dev Managers Need to Do Yesterday to Stay Competitive",
+    "Url": "https://rollout.io/blog/dev-managers-competitive/",
+    "Date": "3/30/2018",
+    "Tags": "tech, management",
+    "Type": "content marketing",
+    "Publication": "Rollout"
+  },
+  {
+    "Name": "Don’t let perfectionism kill your side projects",
+    "Url": "https://code.likeagirl.io/dont-let-perfectionism-kill-your-side-projects-dcc67c75218",
+    "Date": "11/14/2017",
+    "Tags": "tech, coding",
+    "Type": "writing",
+    "Publication": "Code Like A Girl"
+  },
+  {
+    "Name": "A Ranking Of Baocos' Taco Bao Fusion, From Bad To Worse",
+    "Url": "http://chicagoist.com/2015/08/26/we_survived_baocos.php#photo-1",
+    "Date": "8/26/2015",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Discover The Sherry Cobbler, A Refreshing Cocktail Bartenders Love",
+    "Url": "http://chicagoist.com/2015/08/21/discover_the_sherry_cobbler_a_refre.php",
+    "Date": "8/21/2015",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "What's The Deal With Those Giant Swarms Of Dragonflies?",
+    "Url": "http://chicagoist.com/2015/08/05/whats_the_deal_with_those_giant_swa.php",
+    "Date": "8/5/2015",
+    "Tags": "science",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Exploring Food Science Trends At The Institute of Food Technologists Expo",
+    "Url": "http://chicagoist.com/2015/07/26/exploring_the_world_of_food_science.php",
+    "Date": "7/26/2015",
+    "Tags": "food, science",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Six Reasons We Return To Charlatan For Brunch Every Sunday",
+    "Url": "http://chicagoist.com/2015/07/10/why_we_return_to_charlatan_for_brun.php",
+    "Date": "7/10/2015",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Embeya's Bold, Brash New Direction Under Mike Sheerin",
+    "Url": "http://chicagoist.com/2015/07/01/quick_look_embeyas_new_direction_un.php",
+    "Date": "7/1/2015",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Elisir Novasalus: More Horrible/Amazing Than Malört?",
+    "Url": "http://chicagoist.com/2015/06/29/elisir_novasalus_gives_malort_a_run.php",
+    "Date": "6/29/2015",
+    "Tags": "food, spirits",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Spirit Tea: Aiming To Bring Truly Great Tea To Chicago",
+    "Url": "http://chicagoist.com/2015/06/23/spirit_tea_aiming_to_bring_truly_gr.php",
+    "Date": "6/23/2015",
+    "Tags": "food, tea",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "The Most Interesting (And Weird) Items At The Beverage Alcohol For Restaurants Show",
+    "Url": "http://chicagoist.com/2015/05/21/the_most_interesting_and_weird_of_b.php",
+    "Date": "5/21/2015",
+    "Tags": "food, science",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Right Bee Cider: A Cider Made With Love",
+    "Url": "http://chicagoist.com/2015/05/12/right_bee_cider_a_cider_made_with_l.php",
+    "Date": "5/12/2015",
+    "Tags": "food, cider",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Stop Attacking Beards With Your Shitty Science",
+    "Url": "http://chicagoist.com/2015/05/04/stop_attacking_beards_with_your_shi.php",
+    "Date": "5/4/2015",
+    "Tags": "science",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Quick Look: Pupuseria El Excelente",
+    "Url": "http://chicagoist.com/2015/04/30/quick_look_pupuseria_el_excelente.php",
+    "Date": "4/30/2015",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Five Reasons Why We Love \"Half Pints\"",
+    "Url": "http://chicagoist.com/2015/05/04/five_reason_why_we_love_half_pints.php",
+    "Date": "5/4/2015",
+    "Tags": "food, beer",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "A Primer On Peruvian Pisco",
+    "Url": "http://chicagoist.com/2015/04/24/a_primer_on_peruvian_pisco.php",
+    "Date": "4/24/2015",
+    "Tags": "food, spirits",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "A Discussion On Scaling Up Local Meat",
+    "Url": "http://chicagoist.com/2015/04/13/a_discussion_on_scaling_up_local_me.php",
+    "Date": "4/13/2015",
+    "Tags": "food, agriculture",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Join The Ancient And Bitter Cult Of Underberg",
+    "Url": "http://chicagoist.com/2015/03/05/join_the_underberg_cult.php",
+    "Date": "3/5/2015",
+    "Tags": "food, spirits",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Confessions Of A Whiskey Noob: A Year Of Learning To Drink The Good Stuff",
+    "Url": "http://chicagoist.com/2015/03/02/confessions_of_a_whiskey_noob_a_yea.php",
+    "Date": "3/2/2015",
+    "Tags": "food, spirits",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Revisiting: French Classics And An Esoteric Brunch At Trenchermen",
+    "Url": "http://chicagoist.com/2015/01/30/revisiting_french_classics_and_an_i.php",
+    "Date": "1/30/2015",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Sour Power: Beyond Lemon And Limes In Cocktails",
+    "Url": "http://chicagoist.com/2015/01/15/sour_powerbeyond_lemon_and_limes_in.php",
+    "Date": "1/15/2015",
+    "Tags": "food, spirits",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Eating All The Cheese At Acanto",
+    "Url": "http://chicagoist.com/2014/12/05/eating_all_the_cheese_at_acanto.php",
+    "Date": "12/5/2014",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Bitter: A Taste Of The World's Most Dangerous Flavor",
+    "Url": "http://chicagoist.com/2014/11/20/bitter_a_taste_of_the_worlds_most_d.php",
+    "Date": "11/20/2014",
+    "Tags": "food, books",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "The Dark And Murky History Of Pumpkin Spice",
+    "Url": "http://chicagoist.com/2014/10/31/pumpkin_spice_rise_and_fall_of_an_a.php",
+    "Date": "10/31/2014",
+    "Tags": "food, history",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Low Proof: Acanto Wants To Introduce You To Italian Aperitivi",
+    "Url": "http://chicagoist.com/2014/10/31/low_proof_acanto_wants_to_introduce.php",
+    "Date": "10/31/2014",
+    "Tags": "food, spirits",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "A Day Of Learning, Drinking And Eating At Chicago's First Taste Talks",
+    "Url": "http://chicagoist.com/2014/10/09/a_day_of_learning_drinking_and_eati.php",
+    "Date": "10/9/2014",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "A Pork Feast At Tete's Choucroute Dinner Series",
+    "Url": "http://chicagoist.com/2014/09/30/a_porky_feast_at_tetes_choucroute_d.php",
+    "Date": "9/30/2014",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Our Candy Crushes: Mayana's Space Bar",
+    "Url": "http://chicagoist.com/2014/09/10/our_candy_crushes_mayanas_space_bar.php",
+    "Date": "9/10/2014",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "The Flavorful Bookshelf: Adrian Miller On The State Of Soul Food",
+    "Url": "http://chicagoist.com/2014/07/29/the_flavorful_bookshelf_adrian_mill.php",
+    "Date": "7/29/2014",
+    "Tags": "food, books, history",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Vice District Brewing And The South Loop Craft Beer Revolution",
+    "Url": "http://chicagoist.com/2014/07/28/vice_district_brewing_is_part_of_th.php",
+    "Date": "7/28/2014",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Discover This Drink: Makgeolli—It's Alive!",
+    "Url": "http://chicagoist.com/2014/07/24/discover_this_drink_makgeolli_-_its.php",
+    "Date": "7/24/2014",
+    "Tags": "food, spirits",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Low Proof: The Art Of The Low Octane Cocktail",
+    "Url": "http://chicagoist.com/2014/06/24/low_proof_the_art_of_the_low_octane.php",
+    "Date": "6/24/2014",
+    "Tags": "food, spirits",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "The Most Interesting (And Weird) Of The International Wine, Spirits And Beer Event",
+    "Url": "http://chicagoist.com/2014/05/19/the_most_interesting_and_weird_of_t.php",
+    "Date": "5/19/2014",
+    "Tags": "food, spirits, beer",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Chicago's Douche Vortex Map",
+    "Url": "http://chicagoist.com/2014/05/01/chicagos_douche_vortexes.php",
+    "Date": "5/1/2014",
+    "Tags": "data",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "From Day To Night At Sixteen",
+    "Url": "http://chicagoist.com/2014/04/23/from_day_to_night_at_sixteen.php",
+    "Date": "4/23/2014",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "The Absence Of Women In Food Criticism Is No Mystery",
+    "Url": "http://chicagoist.com/2014/04/18/the_absence_of_women_in_food_critic.php",
+    "Date": "4/18/2014",
+    "Tags": "food",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  },
+  {
+    "Name": "Is Sous Vide Coming To Your Kitchen?",
+    "Url": "http://chicagoist.com/2014/03/17/is_sous_vide_coming_to_your_kitchen.php#photo-1",
+    "Date": "3/17/2014",
+    "Tags": "food, science",
+    "Type": "writing",
+    "Publication": "Chicagoist"
+  }
+]
