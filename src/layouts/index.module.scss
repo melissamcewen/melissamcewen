@@ -16,6 +16,7 @@ $break-large: 1000px;
   width: 100%;
   image-rendering: pixelated;
   margin: 0;
+  display:block;
   @media screen and (min-width: $break-large) {
     display:none;
   }
@@ -50,6 +51,8 @@ $break-large: 1000px;
   width: 100%;
   image-rendering: pixelated;
   margin: 0;
+  display:block;
+
 }
 
 .robots {

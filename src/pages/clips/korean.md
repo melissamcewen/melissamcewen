@@ -1,9 +1,9 @@
 ---
-title: "Korean Mom"
+title: "Everyone Has A Korean Mom At Kimchi Pop"
 category: ["writing"]
 tags: ["food"]
-url: "https://twitter.com/BaconFestCHI"
+url: "http://fooditor.com/everybody-korean-mom-kimchi-pop/
+publication: "Fooditor"
 
 ---
 
-I did all the BaconFest restaurant tweets for 2018

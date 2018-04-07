@@ -15,11 +15,9 @@ export default function Tags({ pathContext }) {
           {post.map(({ id, frontmatter, excerpt, fields }) => {
             return (
               <li key={id}>
-                <h1> 
                   <GatsbyLink to={fields.slug}>
                     {frontmatter.title} {frontmatter.url} MEOW
                   </GatsbyLink>
-                </h1>
                 <p>
                   {excerpt}
                 </p>
