@@ -76,7 +76,7 @@ class writing extends React.Component {
         </button>
 
         <button  onClick={() => this.resetList()} >
-          reset
+          all
         </button>
         <ul>
         {
