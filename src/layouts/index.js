@@ -13,6 +13,9 @@ import flowers from './images/flowers-1.png';
 import flowersSmall from './images/flowers-2.png'; 
 
 import counter from './images/count.gif'; 
+import birb from './images/birb.gif'; 
+
+
 
 
 export default class TemplateWrapper extends React.Component {
@@ -39,6 +42,8 @@ export default class TemplateWrapper extends React.Component {
               <img src={flowersSmall} alt="flowers" className={styles.flowers} />
               <div className={styles.pixelBorder}>
                         <Menu />
+
+
               </div>
           </div>
           <div className={styles.content}>
@@ -51,6 +56,9 @@ export default class TemplateWrapper extends React.Component {
 
 
         </div>
+        <a href="mailto:mgmcewen@gmail.com"><img src={birb} alt="birb" style={{ display: "block", margin: "10px auto" }} /></a>
+
+
       </div>
 
     );

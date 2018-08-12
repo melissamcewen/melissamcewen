@@ -10,7 +10,9 @@
   "dependencies": {
     "bootstrap": "^4.0.0",
     "gatsby": "^1.9.73",
+    "gatsby-cli": "^1.1.58",
     "gatsby-link": "^1.6.22",
+    "gatsby-plugin-favicon": "^2.1.1",
     "gatsby-plugin-sass": "^1.0.12",
     "gatsby-plugin-typography": "^1.7.10",
     "gatsby-source-filesystem": "^1.5.28",

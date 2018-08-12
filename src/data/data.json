@@ -1,5 +1,61 @@
 [
   {
+    "Name": "I’ll Delete Your Commented Code Without Reading It and I’m Not Sorry",
+    "Url": "https://blog.submain.com/delete-commented-code-without-reading/",
+    "Date": "7/17/2018",
+    "Tags": "tech, programming, documentation",
+    "Type": "content marketing",
+    "Publication": "Submain Blog"
+  },
+  {
+    "Name": "Taking the Sting Out of Code Documentation",
+    "Url": "https://blog.submain.com/code-documentation/",
+    "Date": "7/03/2018",
+    "Tags": "tech, programming, documentation",
+    "Type": "content marketing",
+    "Publication": "Submain Blog"
+  },
+  {
+    "Name": "A Jira Tutorial for Software Developers",
+    "Url": "https://stackify.com/jira-software-developers/",
+    "Date": "5/09/2018",
+    "Tags": "tech, programming, project management",
+    "Type": "content marketing",
+    "Publication": "Stackify Blog"
+  },
+  {
+    "Name": "Code Inspections? Get Over Yourself.",
+    "Url": "https://blog.submain.com/code-inspections/",
+    "Date": "6/26/2018",
+    "Tags": "tech, programming",
+    "Type": "content marketing",
+    "Publication": "Submain Blog"
+  },
+  {
+    "Name": "Get a Progressive Web App Running in Just 20 Minutes!",
+    "Url": "https://rollout.io/blog/progressive-web-app-running-20-minutes/",
+    "Date": "7/12/2018",
+    "Tags": "tech, programming",
+    "Type": "content marketing",
+    "Publication": "Rollout Blog"
+  },
+  {
+    "Name": "Inside the Delightful World of Bug Facebook",
+    "Url": "https://medium.com/s/darkish-web/inside-the-delightful-world-of-bug-facebook-97f6a9ede6dc",
+    "Date": "4/30/2018",
+    "Tags": "science, culture",
+    "Type": "writing",
+    "Publication": "Dark(ish) Web - an professionally edited anthology on Medium"
+  },
+  {
+    "Name": "The latest trend for tech interviews: Days of unpaid homework",
+    "Url": "https://qz.com/work/1254663/job-interviews-for-programmers-now-often-come-with-days-of-unpaid-homework/",
+    "Date": "4/18/2018",
+    "Tags": "tech",
+    "Type": "writing",
+    "Publication": "Quartz"
+  },
+  {
     "Name": "Baconfest",
     "Url": "Restaurant Tweets 2018",
     "Date": "3/1/2018",

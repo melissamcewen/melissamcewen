@@ -1,5 +1,6 @@
 import React from "react";
 import data from '../data/data.json';
+import catto from './images/catto.gif'; 
 
 function custom_sort(a, b) {
 
@@ -7,13 +8,6 @@ function custom_sort(a, b) {
 }
 data.sort(custom_sort);
 
-function isTech(item) {
-  //console.log(item.Tags);
-  var test= item.Tags;
-  if (test) {
-    return test.includes("tech");
-  }
-}
 
 function filterItems(data, query) {
   return data.filter(function(item) {
@@ -57,7 +51,8 @@ class writing extends React.Component {
  render() {
     return (
       <div>
-        <p>The following is all the writing I've done that's been through an editorial process. I also self-publish on <a href="https://medium.com/@melissamcewen/">Medium</a> and have blogged at various site for over 15 years.</p>
+        <p>The following is all the writing I've done that's been through an editorial process. I also self-publish on <a href="https://medium.com/@melissamcewen/">Medium</a> and have blogged at various site for over 15 years.     <img src={catto} alt="catto" />
+</p>
 
         <button  onClick={() => this.sortList("tech")} >
           tech
