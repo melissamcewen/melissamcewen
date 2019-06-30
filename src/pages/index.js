@@ -21,7 +21,8 @@ const About = () => (
     <h1>Melissa McEwen</h1>
     <p>Hi! I am a Chicago-based writer and tech consultant. <img src={flower} alt="just a flower really"  />
 </p>
-    <p>My main interest in tech these days is Design Operations, which is an ideal fusion of my skills in web development, documentation, and project management. I love filling the gap between design dreams and the technical implementation. I work a lot with Styleguide Driven Development and Visual Regression Testing. I'm also really into static site generators like GatsbyJS. My "side projects" are writing documentation for open source software (like GatsbyJS), as  well as grading student projects in TDD (Test Driven Development), CSS/HTML, APIs, and React. </p> 
+    
+    <p>I currently work at <a href="http://glitch.com">Glitch.com</a> as a solutions engineer. Glitch is a place to build webapps like this one (this site is hosted on Glitch!). I work with partners in education, media, tech, and entertainment. I help them use Glitch for everything from coding challenges to HTML5 games. I work on the amazing Business Development and Partnerships team. My specialties are APIs, API docs, automation, and integrations.</p>
 
     <p>I like to write about everything that I'm interested in and I'm interested in a lot of things. Food, science, and tech are my main wheelhouses right now. I do everything from longform pieces for publications to content marketing for dev tools.</p>
       <img src={garden} alt="original design from 2002"  style={{ display: "block", margin: "10px auto" }}/>
@@ -33,8 +34,11 @@ const About = () => (
     <SocialLinks>
       <Button url="https://twitter.com/melissamcewen" color="#9b6c64">Twitter</Button>
       <Button url="https://github.com/melissamcewen" color="#b69889">Github</Button>
-       <Button url="https://www.instagram.com/melissamcewen/" color="#969768">Instagram</Button>
+      <Button url="https://www.instagram.com/melissamcewen/" color="#969768">Instagram</Button>
       <Button url="https://medium.com/@melissamcewen" color="#ac88a9">Medium</Button>
+      <Button url="https://glitch.com/@MelissaMcEwen" color="#9b6c64">Glitch</Button>
+      <Button url="https://dev.to/melissamcewen" color="#b69889">Dev.to</Button>
+
     </SocialLinks>
     <Button url="mailto:mgmcewen@gmail.com" color="#997166">Email me!</Button>
 

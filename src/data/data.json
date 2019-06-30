@@ -1,5 +1,21 @@
 [
   {
+    "Name": "Creating Super Effective iOS Shortcuts with Glitch",
+    "Url": "https://medium.com/glitch/creating-super-effective-ios-shortcuts-with-glitch-ca266b3d137e",
+    "Date": "10/09/2018",
+    "Tags": "tech, programming, automation, developer relations",
+    "Type": "content marketing",
+    "Publication": "Glitch Medium Blog"
+  },
+  {
+    "Name": "Meet Your GitHub BFF: Probot the Robot",
+    "Url": "https://glitch.com/culture/meet-your-github-bff-probot-the-robot/",
+    "Date": "3/20/2019",
+    "Tags": "tech, programming, automation, developer relations",
+    "Type": "content marketing",
+    "Publication": "Glitch Culture Blog"
+  },
+  {
     "Name": "I’ll Delete Your Commented Code Without Reading It and I’m Not Sorry",
     "Url": "https://blog.submain.com/delete-commented-code-without-reading/",
     "Date": "7/17/2018",
@@ -45,7 +61,7 @@
     "Date": "4/30/2018",
     "Tags": "science, culture",
     "Type": "writing",
-    "Publication": "Dark(ish) Web - an professionally edited anthology on Medium"
+    "Publication": "Dark(ish) Web - a professionally edited anthology on Medium"
   },
   {
     "Name": "The latest trend for tech interviews: Days of unpaid homework",

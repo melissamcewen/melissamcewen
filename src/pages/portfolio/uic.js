@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import Captioned from '../../components/Captioned'
+import Captioned from '../../components/captioned'
 import CaptionedSmall from '../../components/captionedsmall'
 
 
