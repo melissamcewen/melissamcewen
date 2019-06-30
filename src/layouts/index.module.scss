@@ -25,6 +25,7 @@ $break-large: 1000px;
 .flowertop {
   width: 100%;
   image-rendering: pixelated;
+  image-rendering:crisp-edges;
   margin: 0;
   @media screen and (min-width: $break-large) {
     display:none;
@@ -59,6 +60,7 @@ $break-large: 1000px;
   display: none;
   width: 100%;
   image-rendering: pixelated;
+  image-rendering:crisp-edges;
   margin: 0;
 }
 
@@ -66,6 +68,7 @@ $break-large: 1000px;
   max-width: 300px;
   width: 100%;
   image-rendering: pixelated;
+  image-rendering:crisp-edges;
   margin: auto;
   display: block;
 }

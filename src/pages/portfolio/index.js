@@ -14,6 +14,9 @@ import layout5 from './old/layout5.gif';
 const About = ({ data }) => (
   <div>
     <h1>Portfolio</h1>
+    
+      <TextPortfolio link="https://glitch.com/culture/an-intro-to-webvr/" title="WebVR Starter Kit" color="#917b91">An journey through outer space to learn A-frame, a popular WebVR framework. Includes 5 different planetariums teaching key coding and A-frame concepts. I wrote the code and educational content in the code comments and Readmes. I produced, wrote, and acted in videos accompanying each project.</TextPortfolio>
+       <TextPortfolio link="https://glitch.com/@mythbusters-jr" title="Mythbusters Jr." color="#ac88a9">I created a variety of HTML 5 games (Phaser) to promote the show and get kids interested in coding.</TextPortfolio>
       <Portfolio image={data.curlsbot.childImageSharp.sizes}  title="Curlsbot (2018)" link="/portfolio/curlsbot" desc="React, Bootstrap, GraphQL, CSS Modules, Express, Facebook Messenger API, Chatbots, Mocha" />
 
       <TextPortfolio link="https://www.gatsbyjs.org/docs/adding-tags-and-categories-to-blog-posts/" title="GatsbyJS Docs (2018)">I contribute to GatsbyJS documentation. GatsbyJS is a very fast React.js based static site generator. This site and many of my other sites were built on it. I use its GraphQL and CSS Modules capabilities extensively as well.</TextPortfolio>
