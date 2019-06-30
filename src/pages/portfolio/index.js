@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
-import Portfolio from '../../components/Portfolio'
+import Portfolio from '../../components/portfolio'
 import TextPortfolio from '../../components/textportfolio'
 
 import layout3 from './old/layout3.gif'; 

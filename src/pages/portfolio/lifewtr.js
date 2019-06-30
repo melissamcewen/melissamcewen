@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Img from 'gatsby-image'
-import Captioned from '../../components/Captioned'
+import Captioned from '../../components/captioned'
 
 
 const lifewtr = ({ data }) => (
