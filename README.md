@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
 <h3 align="center">A passionate frontend indie hacker from Chicago!</h3>
 
-- 🔭 I’m currently working on **content analytics dashboards using evidence.dev**
+- 🔭 I’m currently working on **content analytics dashboards using Evidence.dev**
 
 - 🌱 I’m currently learning **BigQuery and Evidence.dev**
 
