@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I occasionally moonlight as a food writer for places like [Chicagoist](http://chicagoist.com/2014/05/23/looking_for_leghorn_why_arent_herit.php) and [NPR](https://www.npr.org/sections/thesalt/2013/04/15/177362556/how-swedish-malort-became-chicagos-mascot-bitter-drink)!**
 
+- 🎃 I made this [awful Halloween name generator](https://codepen.io/melissamcewen/full/MWoRjrX)
+
 
 <h2 align="center">📄 Some of my work</h1>
 
