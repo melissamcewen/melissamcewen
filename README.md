@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **I can handsew an item of clothing in less than one day!**
 
+<h1 align="center">📄 Some of my work</h1>
+
+- ✍️👩‍💻🎥v[WebVR starter kit](https://www.youtube.com/watch?v=bEFeeu2lGyo&t=365s) 
+- ✍️👩‍💻[Snowpack Documentation](https://www.snowpack.dev/)
+- ✍️👩‍💻[Discord Bot starter kit](https://glitch.com/glimmer/post/discord-bot-starter-making-your-first-bot-easy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/melissamcewen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="melissamcewen" height="30" width="40" /></a>
