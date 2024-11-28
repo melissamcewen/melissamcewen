@@ -15,11 +15,14 @@
 
 - ⚡ Fun fact **I occasionally moonlight as a food writer for places like [Chicagoist](http://chicagoist.com/2014/05/23/looking_for_leghorn_why_arent_herit.php) and [NPR](https://www.npr.org/sections/thesalt/2013/04/15/177362556/how-swedish-malort-became-chicagos-mascot-bitter-drink)!**
 
-<h1 align="center">📄 Some of my work</h1>
+
+<h2 align="center">📄 Some of my work</h1>
 
 - ✍️👩‍💻🎥v[WebVR starter kit](https://www.youtube.com/watch?v=bEFeeu2lGyo&t=365s) 
 - ✍️👩‍💻[Snowpack Documentation](https://www.snowpack.dev/)
 - ✍️👩‍💻[Discord Bot starter kit](https://glitch.com/glimmer/post/discord-bot-starter-making-your-first-bot-easy)
+
+<a href="https://app.daily.dev/melissamcewen"><img src="https://api.daily.dev/devcards/v2/sK0ZDHF5fOgICd1SLYqfI.png?type=default&r=wp3" width="356" alt="Melissa's Dev Card" align="left"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melissamcewen&show_icons=true&locale=en" alt="melissamcewen" /></p>
 
-<a href="https://app.daily.dev/melissamcewen"><img src="https://api.daily.dev/devcards/v2/sK0ZDHF5fOgICd1SLYqfI.png?type=default&r=wp3" width="356" alt="Melissa's Dev Card"/></a>
