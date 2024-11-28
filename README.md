@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BigQuery and Evidence.dev**
 
-- 👯 I’m looking to collaborate on **Petz (retro game) tools and mods!**
+- 👯 I’m looking to collaborate on **Petz (retro game) tools and mods!**, check out my [Petz](https://uniquepetz.spellwork.dev/) website here!
 
 - 🤝 I’m looking for help with [Curlsbot, the curly hair product analyzer](https://github.com/melissamcewen/CurlsBotSite)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mgmcewen@gmail.com**
 
-- ⚡ Fun fact **I can handsew an item of clothing in less than one day!**
+- ⚡ Fun fact **I occasionally moonlight as a food writer for places like [Chicagoist](http://chicagoist.com/2014/05/23/looking_for_leghorn_why_arent_herit.php) and [NPR](https://www.npr.org/sections/thesalt/2013/04/15/177362556/how-swedish-malort-became-chicagos-mascot-bitter-drink)!**
 
 <h1 align="center">📄 Some of my work</h1>
 
