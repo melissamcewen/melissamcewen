@@ -18,9 +18,9 @@
 - 🎃 I made this [awful Halloween name generator](https://codepen.io/melissamcewen/full/MWoRjrX)
 
 
-<h2 align="center">📄 Some of my work</h1>
+<h2 align="center">📄 Some of my content</h1>
 
-- ✍️👩‍💻🎥v[WebVR starter kit](https://www.youtube.com/watch?v=bEFeeu2lGyo&t=365s) 
+- ✍️👩‍💻🎥[WebVR starter kit](https://www.youtube.com/watch?v=bEFeeu2lGyo&t=365s) 
 - ✍️👩‍💻[Snowpack Documentation](https://www.snowpack.dev/)
 - ✍️👩‍💻[Discord Bot starter kit](https://glitch.com/glimmer/post/discord-bot-starter-making-your-first-bot-easy)
 
