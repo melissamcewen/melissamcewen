@@ -24,7 +24,6 @@
 - ✍️👩‍💻[Snowpack Documentation](https://www.snowpack.dev/)
 - ✍️👩‍💻[Discord Bot starter kit](https://glitch.com/glimmer/post/discord-bot-starter-making-your-first-bot-easy)
 
-<a href="https://app.daily.dev/melissamcewen"><img src="https://api.daily.dev/devcards/v2/sK0ZDHF5fOgICd1SLYqfI.png?type=default&r=wp3" width="356" alt="Melissa's Dev Card" align="left"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
